@@ -40,7 +40,7 @@
 
 ### 🌍 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/pratham-mahant">
+  <a href="[www.linkedin.com/in/pratham-mahant](https://www.linkedin.com/in/pratham-mahant/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
