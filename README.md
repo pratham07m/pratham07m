@@ -1,54 +1,50 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQFjBw534YxXmw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738779797154?e=1744243200&v=beta&t=9UoReDEmAZhEc2uKJ1gRjpj2h4S1jrFEwlgfHhdNfho)
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h1 align="center">👋 Hi, I'm Pratham!</h1>
+###
 
-<p align="center">
-  🚀 Full-Stack Developer | JavaScript | React | Node.js | AWS | Docker
-</p>
+<h1 align="center">My name is Pratham</h1>
 
----
+###
 
-### 🛠 Tech Stack
+<h2 align="left">About me</h2>
 
-**Frontend:**
-- 🌐 HTML, CSS, JavaScript
-- ⚛️ React.js, Next.js
-- 🎨 Tailwind CSS, Bootstrap
+###
 
-**Backend:**
-- 🚀 Node.js, Express.js
-- 🔌 WebSockets
-- 📡 RESTful APIs, GraphQL
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Full stack development | Devops</p>
 
-**Databases:**
-- 🗄️ MongoDB, PostgreSQL
-- 📜 Prisma ORM
+###
 
-**DevOps & Tools:**
-- 🐳 Docker, AWS
-- 🛠️ Git, GitHub
-- 🚀 CI/CD Pipelines
+<h2 align="left">I code with</h2>
 
----
+###
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham07m&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
 </div>
 
----
-
-### 🌍 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/pratham-mahant/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-### 🚀 Projects & Contributions
-🔹 Check out my repositories for cool projects in full-stack development!
+###
 
 ⭐ *Feel free to star my repositories and contribute!*
 
