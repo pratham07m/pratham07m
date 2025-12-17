@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 Software Engineer | full-stack developer - SpringBoot-Java , Laravel-Php , MERN Stack | Devops & Cloud </p>
+<p align="left">✨ full-stack developer - SpringBoot-Java , Laravel-Php , MERN Stack | Devops & Cloud </p>
 
 ###
 
