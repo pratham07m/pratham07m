@@ -1,53 +1,52 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi there, I'm Pratham 👋</h1>
 
-###
+<h3 align="center">Full-Stack Developer | Backend Engineer & DevOps Enthusiast</h3>
 
-<h1 align="center">My name is Pratham</h1>
+<br/>
 
-###
+## 👨‍💻 About Me
 
-<h2 align="left">About me</h2>
+- 🔭 **Currently working on:** Engineering a modular monolith backend application for SME financial orchestration using **Java 17**, **Spring Boot**, and **MySQL**.
+- 🌱 **Currently exploring & deepening skills in:** Advanced **ASP.NET Core**, Microservices, and robust Cloud/DevOps CI/CD pipelines.
+- 🏗️ **Recent Highlights:** Authored a research paper on *Distributed Systems with Node.js and Kafka* and deployed production-ready booking systems scaling on AWS EC2.
+- 💻 **Environment:** Building, automating, and testing primarily on **Ubuntu**.
+- 💬 **Ask me about:** Java, Spring Boot, RESTful API design, and deploying scalable backend systems.
 
-###
+---
 
-<p align="left">✨ full-stack developer - SpringBoot-Java , Laravel-Php , MERN Stack | Devops & Cloud </p>
+## 🛠️ Tech Stack & Tools
 
-###
+### Backend & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,express" height="40" alt="backend technologies" />
+</p>
 
-<h2 align="left">I code with</h2>
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" height="40" alt="databases" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="40" alt="MSSQL" />
+</p>
 
-###
+### Cloud, DevOps & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,jenkins,ubuntu" height="40" alt="cloud and devops" />
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="maven logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs" height="40" alt="frontend technologies" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
 </div>
 
-###
+<br/>
 
-⭐ *Feel free to star my repositories and contribute!*
-
-
+<p align="center">
+  ⭐ <i>Feel free to star my repositories and reach out if you want to collaborate!</i>
+</p>
